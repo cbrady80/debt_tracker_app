@@ -1,8 +1,8 @@
 # Overview
 
-This android app was written to help me learn how to create an Android App. In the process I also learned how to use Android Studio.
+This app was created to help me learn how to make an Android App. In the process I also learned how to use Android Studio.
 
-This app helps you track your debts.  You use it by entering your debt names and amounts, updating them, and deleting them when they are paid off.
+This app helps you track your debts.  You use it by enstering your debt names and amounts, updating them, and deleting them when they are paid off.
 
 The purpose of this app is to help someone keep track of what debts they owe and be a tool to help them pay their debts off.
 
